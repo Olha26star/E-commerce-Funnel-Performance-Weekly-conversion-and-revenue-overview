@@ -16,6 +16,8 @@ Task 1. На якому етапі E-commerce-воронки спостеріг�
 У Google BigQuery я сформувала послідовну E-commerce-воронку із шести етапів:<br>
 <img width="945" height="37" alt="image" src="https://github.com/user-attachments/assets/a4ca3dad-e523-4de8-a0e0-dbdb9acff6e0" /><br>
 Для кожного переходу використала три показники:<br>
+<img width="982" height="651" alt="image" src="https://github.com/user-attachments/assets/844007d3-6192-4ab5-b6c6-d78979e6448e" />
+
 <img width="1847" height="522" alt="image" src="https://github.com/user-attachments/assets/af4d59ad-0f4a-4607-aff1-d79e8f05dd12" />
 
 
