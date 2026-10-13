@@ -20,7 +20,13 @@ Task 1. На якому етапі E-commerce-воронки спостеріг�
 <img width="982" height="651" alt="image" src="https://github.com/user-attachments/assets/844007d3-6192-4ab5-b6c6-d78979e6448e" />
 
 
-<img width="943" height="645" alt="image" src="https://github.com/user-attachments/assets/843c2ab5-9761-473e-87cc-30f832cd6da0" />
+<img width="943" height="645" alt="image" src="https://github.com/user-attachments/assets/843c2ab5-9761-473e-87cc-30f832cd6da0" /><br>
+<br>
+Аналіз E-commerce Funnel Performance
+Період: 16.11.2020–25.01.2021 (11 тижнів)<br>
+За аналізований період зафіксовано 305 365 початкових сесій, з яких лише 2 529 (0,83%) пройшли всі етапи воронки до Purchase.
+<img width="981" height="395" alt="image" src="https://github.com/user-attachments/assets/c845c078-bdf1-4c68-9542-bee547e326ad" />
+
 
 
 
