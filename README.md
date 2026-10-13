@@ -14,7 +14,7 @@ Task 1. На якому етапі E-commerce-воронки спостеріг�
 Для цього завдання недостатньо знайти перехід із найбільшим Drop-off за один тиждень. Потрібно визначити, де втрачається найбільше сесій, чи повторюється ця проблема в різні періоди та чи свідчить вона про погіршення ефективності воронки.
 1. Методологія аналізу<br>
 У Google BigQuery я сформувала послідовну E-commerce-воронку із шести етапів:<br>
-<img width="945" height="37" alt="image" src="https://github.com/user-attachments/assets/a4ca3dad-e523-4de8-a0e0-dbdb9acff6e0" />
+<img width="945" height="37" alt="image" src="https://github.com/user-attachments/assets/a4ca3dad-e523-4de8-a0e0-dbdb9acff6e0" /><br>
 Для кожного переходу використала три показники:<br>
 <img width="1847" height="522" alt="image" src="https://github.com/user-attachments/assets/af4d59ad-0f4a-4607-aff1-d79e8f05dd12" />
 
