@@ -75,7 +75,8 @@ E-commerce Funnel Performance Weekly conversion and revenue overview
 Traffic Share (%) = (Sessions пристрою / Загальна кількість Sessions) × 100%<br>
 <br>
 Результати аналізу<br>
-<img width="937" height="290" alt="image" src="https://github.com/user-attachments/assets/e742771e-d438-498b-9061-8ebc52e6cf6f" />
+<img width="947" height="282" alt="image" src="https://github.com/user-attachments/assets/064055b5-d6ca-4849-8b21-47195997ccc0" />
+
 Примітка: розрахунки приблизні, оскільки кількість сесій для Desktop і Mobile на графіках Tableau відображена з округленням.<br>
 
 
