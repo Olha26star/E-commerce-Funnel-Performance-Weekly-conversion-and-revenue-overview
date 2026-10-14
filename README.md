@@ -134,6 +134,8 @@ SQL запит в BigQuery<br>
   <img width="950" height="445" alt="image" src="https://github.com/user-attachments/assets/3694c3db-38c9-4070-afc3-4f9562f3135c" />
   <img width="797" height="742" alt="image" src="https://github.com/user-attachments/assets/a5050483-1524-4196-b239-4905b7b6c13c" />
   <img width="827" height="817" alt="image" src="https://github.com/user-attachments/assets/5b3da86d-4936-4f57-b014-f5477c8291f9" />
+  <img width="805" height="722" alt="image" src="https://github.com/user-attachments/assets/7a8ddd6d-9e84-4bd6-ab99-f570089badf8" />
+
 
 
 
