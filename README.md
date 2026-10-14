@@ -67,5 +67,17 @@ E-commerce Funnel Performance Weekly conversion and revenue overview
 3.Дослідити причини відмов після Add to Cart: перевірити умови доставки, зручність кошика та процес переходу до оформлення замовлення.
 
 ## Task 3. Наскільки відрізняється ефективність конверсії в покупку залежно від типу пристрою?
+Розподіл трафіку за типами пристроїв (Traffic Share)<br>
+Період аналізу: 09.11.2020–25.01.2021 <br>
+Для оцінки структури трафіку було розраховано показник Traffic Share — частку сесій кожного типу пристрою в загальній кількості сесій за аналізований період.
+Формула розрахунку:<br>
+<br>
+Traffic Share (%) = (Sessions пристрою / Загальна кількість Sessions) × 100%<br>
+<br>
+Результати аналізу<br>
+<img width="937" height="290" alt="image" src="https://github.com/user-attachments/assets/e742771e-d438-498b-9061-8ebc52e6cf6f" />
+Примітка: розрахунки приблизні, оскільки кількість сесій для Desktop і Mobile на графіках Tableau відображена з округленням.<br>
+
+
 <img width="1465" height="607" alt="image" src="https://github.com/user-attachments/assets/ddc18ddd-3444-4f51-beae-10cd418688d7" />
 
