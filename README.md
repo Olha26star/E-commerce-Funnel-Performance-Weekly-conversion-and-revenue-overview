@@ -139,7 +139,8 @@ SQL запит в BigQuery<br>
   <img width="805" height="422" alt="image" src="https://github.com/user-attachments/assets/b39bda33-305c-4fd3-9afb-c2e868aba03c" />
   <img width="890" height="582" alt="image" src="https://github.com/user-attachments/assets/84e94ade-79e9-4da6-b5f4-3d4b518710a6" />
   <img width="731" height="778" alt="image" src="https://github.com/user-attachments/assets/aadbda88-9f55-4114-9924-b1f98cb9ba8f" />
-  <img width="760" height="746" alt="image" src="https://github.com/user-attachments/assets/eb4f05d6-9f62-472e-ad51-b3854f802ada" /><img width="733" height="601" alt="image" src="https://github.com/user-attachments/assets/f2ed8dfb-a8c7-4375-9c6e-1d3edf3626fd" />
+  <img width="760" height="746" alt="image" src="https://github.com/user-attachments/assets/eb4f05d6-9f62-472e-ad51-b3854f802ada" />
+  <img width="737" height="597" alt="image" src="https://github.com/user-attachments/assets/0072c01e-2eff-4819-8742-fe9b0bcea2a7" />
 
 
 
