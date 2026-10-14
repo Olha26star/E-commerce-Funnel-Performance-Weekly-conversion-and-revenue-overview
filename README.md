@@ -78,6 +78,9 @@ Traffic Share (%) = (Sessions пристрою / Загальна кількіс
 <img width="947" height="282" alt="image" src="https://github.com/user-attachments/assets/064055b5-d6ca-4849-8b21-47195997ccc0" />
 
 Примітка: розрахунки приблизні, оскільки кількість сесій для Desktop і Mobile на графіках Tableau відображена з округленням.<br>
+<br>
+Для оцінки ефективності було порівняно два показники: Sessions — кількість сесій за типами пристроїв та Purchase CVR — частку сесій, що завершилися покупкою.<br>
+<img width="952" height="341" alt="image" src="https://github.com/user-attachments/assets/436613db-6a3d-460e-a2e1-ac73ab09cbed" />
 
 
 <img width="1465" height="607" alt="image" src="https://github.com/user-attachments/assets/ddc18ddd-3444-4f51-beae-10cd418688d7" />
