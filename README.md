@@ -18,6 +18,7 @@ Task 1. На якому етапі E-commerce-воронки спостеріг�
 Для кожного переходу використала три показники:<br>
 <img width="1847" height="522" alt="image" src="https://github.com/user-attachments/assets/af4d59ad-0f4a-4607-aff1-d79e8f05dd12" />
 <img width="982" height="651" alt="image" src="https://github.com/user-attachments/assets/844007d3-6192-4ab5-b6c6-d78979e6448e" />
+<img width="1308" height="620" alt="image" src="https://github.com/user-attachments/assets/e6b2e8b2-08d8-4223-a231-970f581e38dd" />
 
 
 <img width="943" height="645" alt="image" src="https://github.com/user-attachments/assets/843c2ab5-9761-473e-87cc-30f832cd6da0" /><br>
