@@ -126,7 +126,7 @@ Other забезпечує 89 147 сесій (27,21%) із майже анало
 Рекомендація: Бізнесу варто змінити фокус із кількості відвідувачів на прибутковість залучення та завершення покупок. Спочатку необхідно перевірити різке падіння успішних покупок наприкінці січня: якщо причина в оплаті або технічній помилці, її усунення має першочергове значення, адже компанія втрачає клієнтів, які вже готові купити. Наступний крок — переглянути, кого саме залучають Google та Other і чи відповідають товари, ціни й умови доставки очікуванням цих користувачів. Замість нарощування трафіку доцільно спрямовувати ресурси на сегменти, які приносять більше виручки відносно витрат, та покращувати умови, що заважають завершити покупку. Мета — отримувати більше завершених і прибуткових замовлень із наявного потоку клієнтів, а не просто збільшувати відвідуваність сайту.<br>
 <br>
 доступ до Tableau<br>
-https://public.tableau.com/views/E-commerceFunnelPerformanceproject/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/E-commerceFunnelPerformanceproject/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link<br>
 SQL запит в BigQuery<br>
 <img width="793" height="446" alt="image" src="https://github.com/user-attachments/assets/7c15472a-412f-475b-bebe-590d14865635" />
 <img width="690" height="606" alt="image" src="https://github.com/user-attachments/assets/a2ff4a99-d138-483a-83b1-d77651cf8127" />
@@ -135,6 +135,17 @@ SQL запит в BigQuery<br>
   <img width="797" height="742" alt="image" src="https://github.com/user-attachments/assets/a5050483-1524-4196-b239-4905b7b6c13c" />
   <img width="827" height="817" alt="image" src="https://github.com/user-attachments/assets/5b3da86d-4936-4f57-b014-f5477c8291f9" />
   <img width="805" height="722" alt="image" src="https://github.com/user-attachments/assets/7a8ddd6d-9e84-4bd6-ab99-f570089badf8" />
+  <img width="768" height="832" alt="image" src="https://github.com/user-attachments/assets/817b89dd-3d2d-4c89-84cd-c48ea9639d5f" />
+  <img width="805" height="422" alt="image" src="https://github.com/user-attachments/assets/b39bda33-305c-4fd3-9afb-c2e868aba03c" />
+  <img width="890" height="582" alt="image" src="https://github.com/user-attachments/assets/84e94ade-79e9-4da6-b5f4-3d4b518710a6" />
+  <img width="731" height="778" alt="image" src="https://github.com/user-attachments/assets/aadbda88-9f55-4114-9924-b1f98cb9ba8f" />
+  <img width="760" height="746" alt="image" src="https://github.com/user-attachments/assets/eb4f05d6-9f62-472e-ad51-b3854f802ada" /><img width="733" height="601" alt="image" src="https://github.com/user-attachments/assets/f2ed8dfb-a8c7-4375-9c6e-1d3edf3626fd" />
+
+
+
+
+
+
 
 
 
